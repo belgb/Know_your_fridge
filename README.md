@@ -1,7 +1,7 @@
 # Know_your_fridge
 Know your fridge its a project that aims to calculate stock of goods in your fridge or fridges. Very often people buy goods that they will never eat, that generates overproduction, overpollutions over overspendings. This project will help people to be more wealthy, healthy, pollute less and live better:)
 
-From techical point of you it's Fridge Resource Planning system like ERP, but FRP. I think it will be server part, web part + android application.
+From techical point of view it's Fridge Resource Planning system like ERP, but FRP. I think it will be server part, web part + android application.
 This project should help people:
 1) To calculate stock of the fridge;
 2) Create lists to buy in the store;
